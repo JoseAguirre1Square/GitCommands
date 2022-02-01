@@ -1,3 +1,3 @@
 import sys;
 
-print('Change for push!')
+print('Change for pull')
