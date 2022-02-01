@@ -1,3 +1,3 @@
 import sys;
 
-print('Hello world!')
+print('Change for push!')
